@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class palindrome {
 
+//How to check if the given number is palindrome?
+
     public static boolean isPalindrome(int num){
             int original = num;
             int reversed = 0;
